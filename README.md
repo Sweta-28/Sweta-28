@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sweta kumari</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5622AQFoDY8Ez23_Sg/feedshare-shrink_800/0/1699848131220?e=2147483647&v=beta&t=2LHEeXXoidLYDcHuiuM-svNoH_hSQBsJUi_S2NbSRfs">
 
