@@ -27,9 +27,18 @@
 
 
 
+<p align="center">
+    <h2>My GitHub Stats:</h2>
+</p>
 
-##  My GitHub Stats:
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta-28&show_icons=true&theme=radical)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sweta-28&show_icons=true&theme=radical" alt="Sweta's GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweta-28&theme=radical" alt="sweta" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sweta&" alt="sweta" /></p>
+
+
